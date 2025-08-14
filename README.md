@@ -180,6 +180,7 @@ mariposario_ra/
 ├── assets/
 │   ├── images/monarca.png
 │   └── models/mariposa_monarca.glb
+│   └── sounds/ambiente_bosque.mp3
 ├── pubspec.yaml
 ```
 
