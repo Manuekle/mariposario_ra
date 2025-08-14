@@ -1,0 +1,7 @@
+{
+  "name": "Morpho Azul",
+  "scientificName": "Morpho menelaus",
+  "imageAsset": "assets/images/morpho.png",
+  "modelAsset": "assets/models/morpho.glb",
+  "ambientSound": "assets/sounds/ambiente_selva.mp3"
+}

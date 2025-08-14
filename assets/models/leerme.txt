@@ -1,0 +1,1 @@
+Coloca aquí tus archivos .glb optimizados para móviles (menos de 5MB). Ejemplo: mariposa.glb
